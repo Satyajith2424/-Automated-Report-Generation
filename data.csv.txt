@@ -1,0 +1,7 @@
+Name,Department,Score
+Alice,Sales,85
+Bob,HR,78
+Charlie,IT,92
+David,Sales,88
+Eva,HR,91
+Frank,IT,75
